@@ -25,7 +25,7 @@ I once went searching for a geothermal pool in Iceland and stumbled upon a hidde
 
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Christopher-Jettoo&show_icons=true&theme=radical)
 
 ## 📝 Latest Blog Posts
 - Kaleidoscope — Adventures in Observability: https://medium.com/@rbrtm984/kaleidoscope-adventures-in-observability-a8f0f763de83
